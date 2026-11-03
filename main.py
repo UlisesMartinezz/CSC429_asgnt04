@@ -1,3 +1,9 @@
+# Name: Ulises Martinez
+# Course: CSC.429.01
+# Date: Nov. 2, 2026
+# Project: Designing an Expert System
+
+
 from kb_loader import load_rules
 from engine import ForwardChainingEngine
 
